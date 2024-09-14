@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello! I'm Aryan Daksh, a passionate Computer Science major with a deep interest in Software Development and Cloud Computing.
 
 
